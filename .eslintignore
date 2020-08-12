@@ -1,0 +1,5 @@
+public/
+!public/src/file3.js
+!public/src/*.js
+!public/src/*
+
